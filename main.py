@@ -22,7 +22,7 @@ def ekstraksi_data():
     hasil['kedalaman'] = '10 km'
     hasil['lokasi'] = {'lu':1.43, 'bt':121.77}
     hasil['pusat'] = 'Pusat gempa berada di laut 68 km TimurLaut Buol'
-    hasil['dirasakan'] = 'Dirasakan (Skala MMI): III-IV Kab. Buol, II-III Kab. Pohuwato, II-III Tolitoli, II Kab. Gorontalo Utara'
+    hasil['dirasakan'] = '(Skala MMI): III-IV Kab. Buol, II-III Kab. Pohuwato, II-III Tolitoli, II Kab. Gorontalo Utara'
 
     return hasil
 
